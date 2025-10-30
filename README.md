@@ -1,4 +1,4 @@
-# sales-performance-dashboard
+
 # 📊 Sales Performance Analytics Dashboard (Tableau)
 
 ## 🧠 Overview
@@ -9,25 +9,23 @@ The goal is to help stakeholders make data-driven decisions by visualizing KPIs 
 ---
 
 ## 🌐 Live Dashboard
-🔗 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/)  
+🔗 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/tutorial_17618256082340/Executivesales?:language=en-US&:sid=&:redirect=auth&publish=yes&showOnboarding=true&:display_count=n&:origin=viz_share_link) 
 
 
 ---
 
 ## 🗂️ Project Structure
-Sales-Performance-Analytics/
+📊 Sales Performance Analytics Dashboard (Tableau)
 │
 ├── data/
-│ └── sales_data.csv # Dataset used for analysis (optional if included in TWBX)
-│
+
 ├── visuals/
-│ └── dashboard_preview.png # Screenshot of the Tableau dashboard
-│
+
 ├── workbook/
-│ └── Sales Performance Analytics.twbx # Tableau packaged workbook
-│
-│
-└── README.md # Project documentation
+
+├── report/
+
+└── README.md
 
 ---
 
@@ -65,8 +63,7 @@ Sales-Performance-Analytics/
 ## 👩‍💻 Author
 **Kashmira Katkar**  
 📧 [kashukatkar@gmail.com](mailto:kashukatkar@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/kashmirakatkar/) *(Optional: Add your profile link)*
-
+🔗 [LinkedIn](https://www.linkedin.com/in/kashmira-katkar-7372b0316/) 
 ---
 
 ## 📜 License
